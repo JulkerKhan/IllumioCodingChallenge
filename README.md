@@ -17,8 +17,6 @@ IMPROVEMENTS:
 - I would create more robust test cases. 
 
 TEAM RANKINGS:
-1)PLATFORM
-
-2)POLICY
-
-3)DATA
+- 1) PLATFORM
+- 2) POLICY
+- 3) DATA

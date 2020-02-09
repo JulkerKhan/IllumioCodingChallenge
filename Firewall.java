@@ -21,7 +21,7 @@ public class Firewall {
         String line = br.readLine();
         while(line != null){
             String [] info = line.split(",");
-            Rule currRule = new Rule (info[0],info[0], info[0], info[0]);
+            Rule currRule = new Rule (info[0], info[1], info[2], info[3]);
             rules.add(currRule);
             line = br.readLine();
         }
